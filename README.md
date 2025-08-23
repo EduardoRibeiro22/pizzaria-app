@@ -13,6 +13,7 @@ com.pizzariachief.pedidos.application: Contém a classe Main para demonstrar o u
 com.pizzariachief.pedidos.model: Define a interface Pizza, a classe PizzaBase e o enum TipoDeMassa.
 com.pizzariachief.pedidos.model.decorators: Contém a classe abstrata IngredienteDecorator e as implementações concretas dos decoradores para cada ingrediente (Bacon, Ovo, Queijo).
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 Java
+
 Padrão de Design: Decorator
